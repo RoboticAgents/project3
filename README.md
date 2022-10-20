@@ -1,5 +1,20 @@
 # Project 03: Robot Manipulation or Mapping
 
+## Table of Contents
+
+- [Timeline](#timeline)
+- [Class Community Guidelines](#class-community-guidelines)
+- [Introduction](#introduction)
+- [Robot and Team Selection](#robot-and-team-selection)
+- [Instructions](#Instructions)
+
+  - [Turtlebot4 Lite](turtlebot4-lite)
+  - [EvoArm](#evoarm)
+
+- [Project Demonstration](#project-demonstration)
+- [Assessment](#assessment)
+- [Receiving Assistance](receiving-assistance)
+
 ## Timeline
 
 Activity                   | Deadline
@@ -49,11 +64,11 @@ Once the robot is up and running, you will need to select an autonomous robotic 
 
 The source code must be included in the `src/` folder of your project repository. The report must include clear details and experiences from the building and implementation stages of your project.
 
-## Project Demonstration
+## Project Demonstrations
 
 At the beginning of the lab session on Thursday, October 13th, each team will be given an opportunity to demonstrate their project. When the lab session starts, teams will be given a few minutes to set up their demonstrations and get them running. Then, class members will participate in an interactive demonstration session, where everyone will be able to view each demonstration and learn from each other.
 
-## Assignment Assessment
+## Assessment
 
 The grade that a student receives on this assignment will have the following components.
 
@@ -69,7 +84,7 @@ The grade that a student receives on this assignment will have the following com
 
 All grades for this project will be reported through a student's gradebook GitHub repository.
 
-## GatorGrade
+### GatorGrade
 
 You can check the baseline writing and commit requirements of this project by running department's assignment checking `gatorgrade` tool To use `gatorgrade`, you first need to make sure you have Python installed. If not, please see:
 
