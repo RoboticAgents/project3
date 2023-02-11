@@ -1,9 +1,7 @@
-# Project 03: Robot Manipulation or Mapping
+# Project 3: Robot Manipulation or Mapping
 
 ## Table of Contents
 
-- [Timeline](#timeline)
-- [Class Community Guidelines](#class-community-guidelines)
 - [Introduction](#introduction)
 - [Robot and Team Selection](#robot-and-team-selection)
 - [Instructions](#Instructions)
@@ -13,26 +11,13 @@
 - [Assessment](#assessment)
 - [Receiving Assistance](receiving-assistance)
 
-## Timeline
-
-Activity                   | Deadline
--------------------------- | -------------------------------
-Project Work in class:     | November 1st, 2022 during class
-Demo and Final Submission: | November 3rd, 2022 by 4:20pm
-
-## Class Community Guidelines
-
-Throughout the completion of this project you must adhere to the [community guidelines](https://github.com/CMPSC-311-Allegheny-College-Fall-2022/course-information/blob/main/community_guidelines.md) that we developed as a class. To report any violations of the code of conduct, please submit an [anonymous form](https://forms.gle/tePfnLY12hyN1Xbd6). Students who think that the class should revise some aspect of the guidelines must use the GitHub issue tracker for that repository to suggest, discuss, and implement any required changes.
-
-By working on and completing this assignment you agree to use the hardware given to you in a responsible manner. Each team is responsible for the safety and security of the robot while it is in your possession. You are allowed to take the robots used in this project outside of ALIC but you have to return all parts at the completion of this project, or if requested, at the end of the semester.
-
 ## Introduction
 
 This project assignment invites you to work in a team to implement either an autonomous manipulation or autonomous mapping technique depending on a selected robot type. In this and the next project, the class members will be split into two categories: 1) those working with Turtlebot 4 Lite, and 2) those working with EvoArm. In both cases you will first complete the needed builds and installations to set up and configure a new robotic system. Then, if you are working with EvoArm, you will focus on developing a simple manipulation technique. On the other hand, if you are working with Turtlebot 4 Lite, you will create autonomous mapping for a navigation task. Finally, teams will reflect on their experiences and educate the other teams as they prepare to swap robotic platforms and develop a more advanced application for project 4\. Teams are also responsible for writing a detailed report, stored in the file `writing/report.md`. This is a Markdown file that must adhere to the standards described in the [Markdown Syntax Guide](https://guides.github.com/features/mastering-markdown/).
 
 ## Robot and Team Selection
 
-Every member of the course is invited to indicate the preference of the robotic system they will use in this project by completing the [Project 3 Robot Selection form](https://forms.gle/VVhCd5f7HeKN1Mwy5). Class members are also invited to form teams on their own. Instructor will verify everyone's preferences and make final team and robot assignments on October 20th. The teams and the specific robots to be used by them will be noted in the [CMPSC 311 Project Teams spreadsheet](https://docs.google.com/spreadsheets/d/1167k-1ZGXR8TJqWdfp61kC7IDzhSVTUTHP7-Urx7ehc/edit?usp=sharing).
+Every member of the course is invited to indicate the preference of the robotic system they will use in this project by completing the [Project 3 Robot Selection form](https://forms.gle/VVhCd5f7HeKN1Mwy5). Class members are also invited to form teams on their own. Instructor will verify everyone's preferences and make final team and robot assignments.
 
 ## Instructions
 
@@ -64,7 +49,7 @@ The source code must be included in the `src/` folder of your project repository
 
 ## Project Demonstrations
 
-At the beginning of the lab session on Thursday, October 13th, each team will be given an opportunity to demonstrate their project. When the lab session starts, teams will be given a few minutes to set up their demonstrations and get them running. Then, class members will participate in an interactive demonstration session, where everyone will be able to view each demonstration and learn from each other.
+At the due date of the project, each team will be given an opportunity to demonstrate their project. When the lab session starts, teams will be given a few minutes to set up their demonstrations and get them running. Then, class members will participate in an interactive demonstration session, where everyone will be able to view each demonstration and learn from each other.
 
 ## Assessment
 
